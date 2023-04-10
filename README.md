@@ -59,14 +59,14 @@ Start the server
 </p>
 
 * POST - http://localhost:8888/users : Create a new user.
-  name must have 1 to 50 characters.
-  email must be in valid email format.
-  bio must have 0 to 200 characters.
+  Name must have 1 to 50 characters.
+  Email must be in valid email format.
+  Bio must have 0 to 200 characters.
 
 * GET - http://localhost:8888/users/id : Retrieve a user by id.
 * PUT - http://localhost:8888/users/id : Update a user's name or bio by id.
-  name must have 1 to 50 characters.
-  bio must have 0 to 200 characters.
+  Name must have 1 to 50 characters.
+  Bio must have 0 to 200 characters.
 
 * DELETE - http://localhost:8888/users/id : Delete a user by id.
 
@@ -77,7 +77,7 @@ Start the server
 </p>
 
 * POST - http://localhost:8888/posts: Create a new post. The request should include the user_id.
-  content must have 1 to 300 characters. 
+  Content must have 1 to 300 characters. 
 
 * GET - http://localhost:8888/posts/id : Retrieve a post by id.
 * PUT - http://localhost:8888/posts/id : Update a post's content by id.
