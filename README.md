@@ -41,3 +41,34 @@ Clone the project
 Go to the project resources
 
 -  src/main/resources and modify the MySQL login details in the application.properties file to match the system on which the application will be executed.
+
+Run the main file
+
+- src/main/java/com/socialMediaPlatform/SocialMediaPlatformApplication.java
+
+Start the server
+
+ - http://localhost:8888/swagger-ui/index.html#/
+
+## API Module Endpoints
+
+### User Module
+
+<p align="center">
+  <img src="https://www.linkpicture.com/q/SocialMediaPlatform_2.png"/>
+</p>
+
+### Post Module
+
+<p align="center">
+  <img src="https://www.linkpicture.com/q/SocialMediaPlatform_3.png"/>
+</p>
+
+### Analytics Module
+
+<p align="center">
+  <img src="https://www.linkpicture.com/q/SocialMediaPlatform_4.png"/>
+</p>
+
+## Author
+- [Abhishek Das](https://github.com/abhidas0810)
