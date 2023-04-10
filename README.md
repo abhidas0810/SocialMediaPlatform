@@ -21,3 +21,7 @@ This project involves creating a simple social media platform with a backend API
 - User Module
 - Post Module
 -	Analytics Module
+
+<p align="center">
+  <img src="https://www.linkpicture.com/q/SocialMediaPlatform_1.png"/>
+</p>
