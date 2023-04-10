@@ -1,4 +1,4 @@
-# SocialMediaPlatform
+# Social Media Platform
 
 <p align="center">
   <img src="https://www.linkpicture.com/q/SocialMediaPlatform.png"/>
@@ -25,3 +25,19 @@ This project involves creating a simple social media platform with a backend API
 <p align="center">
   <img src="https://www.linkpicture.com/q/SocialMediaPlatform_1.png"/>
 </p>
+
+##  Entity Relationship
+
+![Social Media Platform (ER Diagram)](https://www.linkpicture.com/q/Social-Media-Platform-ER-Diagram.png)
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/abhidas0810/SocialMediaPlatform.git
+```
+
+Go to the project resources
+
+-  src/main/resources and modify the MySQL login details in the application.properties file to match the system on which the application will be executed.
