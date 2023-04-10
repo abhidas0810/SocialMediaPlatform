@@ -24,6 +24,7 @@ public class User {
 	@Id
 	@GeneratedValue
 	private Integer id;
+	@Size(min = 1, max = 50)
 	private String name;
 	@Email
 	@Column(unique = true)

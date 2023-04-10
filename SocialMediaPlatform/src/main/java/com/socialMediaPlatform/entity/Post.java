@@ -27,6 +27,7 @@ public class Post {
 	@JsonIgnore
 	private LocalDateTime updated_at;
 	@Min(value = 0)
+	@JsonIgnore
 	private Integer likes = 0;
 
 	@ManyToOne
